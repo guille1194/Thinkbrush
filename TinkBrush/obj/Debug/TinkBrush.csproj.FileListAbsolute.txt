@@ -1,0 +1,14 @@
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\bin\Debug\TinkBrush.exe.config
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\bin\Debug\TinkBrush.exe
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\bin\Debug\TinkBrush.pdb
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\bin\Debug\MetroFramework.Design.dll
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\bin\Debug\MetroFramework.dll
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\obj\Debug\TinkBrush.csprojResolveAssemblyReference.cache
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\obj\Debug\TinkBrush.Form1.resources
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\obj\Debug\TinkBrush.Properties.Resources.resources
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\obj\Debug\TinkBrush.csproj.GenerateResource.Cache
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\obj\Debug\TinkBrush.exe
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\obj\Debug\TinkBrush.pdb
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\obj\Debug\TinkBrush.Form2.resources
+C:\Users\guillermo\documents\visual studio 2017\Projects\TinkBrush\TinkBrush\obj\Debug\TinkBrush.Form3.resources
