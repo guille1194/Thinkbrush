@@ -28,21 +28,29 @@ namespace TinkBrush
 
         }
 
+        //boton de registro
         private void metroButton1_Click(object sender, EventArgs e)
-        {
+        {   //creacion de conexion sql
             SqlConnection con = new SqlConnection("server=DESKTOP-Q20NC8P\\SQLEXPRESS ; database=PaintDB ; integrated security = true");
+            //abrir conexion
             con.Open();
+            //creacion de consulta donde los valores se esperan con el input
             string nuevacon = "insert into login(correo, Nombre, nombreusuario, contrasena) Values " +
             "('" + metroTextBox4.Text + "','" + metroTextBox1.Text+ "','"+metroTextBox2.Text+"','"+metroTextBox3.Text+"')";
+            //comando para ejecutar la consulta
             SqlCommand cmd = new SqlCommand(nuevacon, con);
+            //ejecucion de la consulta sql
             cmd.ExecuteNonQuery();
             MessageBox.Show("Usuario Registrado");
         }
 
+        //boton cambio de forma
         private void metroButton2_Click(object sender, EventArgs e)
-        {
+        {   //creacion objeto forma
             Form3 fm = new Form3();
+            //mostrar nueva forma
             fm.Show();
+            //ocultar forma anterior
             this.Hide();
         }
 
